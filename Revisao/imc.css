@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: rgb(102, 190, 190);
     width: 400px; /* largura da página */
     padding-left: 150px; /* espaçamento interno à esquerda */ 
     padding-top: 50px; /* espaçamento interno acima */
@@ -10,7 +10,7 @@ div {
 }
 
 input {
-    background-color: red;
+    background-color: rgba(240, 240, 240, 0.507);
 }
 
 #divGeral{
