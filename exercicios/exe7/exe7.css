@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(87, 154, 199);
+    width: 400px;
+    margin: auto;
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+div{
+    padding-bottom: 30px;
+}
+
+input{
+    background-color: rgb(192, 234, 247);
+}
+
+#geral{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 20px;
+}

@@ -1,0 +1,23 @@
+body{
+     width:400px ;
+     margin: auto;
+     background-color: bisque;
+     padding-left: 40px;
+
+    }
+
+    h2{
+        padding-top: 20px;
+        padding-left: 125px;
+    }
+    div{
+        padding-bottom: 20px;
+
+    }
+    #container{
+        
+        margin-top: 40px;
+        border-radius: 20px;
+        background-color: rgb(168, 216, 200);     
+        padding: 10px; 
+    }

@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    width: 400px;
+    margin: auto;
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+div{
+    padding-bottom: 30px;
+}
+
+#geral{
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+}

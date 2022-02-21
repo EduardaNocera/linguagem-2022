@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(165, 226, 52);
+    width: 400px;
+    margin: auto;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+div{
+    padding-bottom: 30px;
+    font-size: 15;
+}
+
+#geral{
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    
+}
